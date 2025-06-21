@@ -5,7 +5,7 @@ android {
     compileSdkVersion 33
 
     defaultConfig {
-        applicationId "com.example.mwinplay"
+        applicationId "com.mwinplay.app"
         minSdkVersion 21
         targetSdkVersion 33
         versionCode 1
